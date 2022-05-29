@@ -3,4 +3,5 @@
 
 <p>Primer de tot instalem el mysql server</p>
 | apt-get install mysql-server |
+`<table>`
 
