@@ -34,4 +34,17 @@
 
 ![image](https://user-images.githubusercontent.com/91152783/170871179-fddb3f74-92e5-45c3-bd7e-58e5925d669c.png)
 
+<p> Per crear la taula  ficarem create table "nom de la taula" amb el meu cas fico tasks i entre parentesis ficarem les columnes que voldrem, jo fico la descripcio de la tasca i un boolean on ens digui si esta completado a no.</p>
 
+![image](https://user-images.githubusercontent.com/91152783/170872078-cade3f49-ac08-4d71-8479-f711c7d176f3.png)
+
+<p>Per veure les taules creades farem SHOW TABLES</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170872161-0507f18b-68f7-470c-8d0d-ee14f5d68e61.png)
+
+
+
+
+  
+  
+  
