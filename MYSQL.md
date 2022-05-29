@@ -93,9 +93,93 @@
 
 ![Selecció_2053](https://user-images.githubusercontent.com/91152783/170875919-bf7c02a6-2fcb-441a-9c10-aaf2e679b991.png)
 
-<p> Des de aquesta eina podrem entrar a la base de dades que hem creat al principi o esta la taula creada, a aquesta podrem afegir files modificarles entre altres coses de manera  grafica.</p>
+<p> Des de aquesta eina podrem entrar a la base de dades que hem creat al principi o esta la taula creada, a aquesta podrem afegir files modificarles entre altres coses de manera grafica.</p>
 
 ![image](https://user-images.githubusercontent.com/91152783/170876120-4ca61966-9b17-4b83-8f1f-e4983bd145f9.png)
+
+<p> Ara ens fiquem al Phpstorm. </p>
+<p> Una vegada estem dins del Phpstorm i creem un nou preojecte, anirem a afegir noves bases de dades, per a fer-ho anirem a fer clic sobre la pestanta que surt apegada a la dreta de tot on fica Databases, veurem que s'obrira una pestanya, dins d'aquesta pestanya podrem fixar-nos amb una casella on hi ha un +.</p>
+
+![Selecció_2057](https://user-images.githubusercontent.com/91152783/170876786-4ef24e9f-270c-4fd3-ab85-471123d4e848.png)
+
+<p>Dins d'aquest + veure anirem a Data source on hi ha suport per bastants sistemes, nosalres utilitzarem la MySQL així dons farem clic a ell.</p>
+
+![Selecció_2058](https://user-images.githubusercontent.com/91152783/170876882-a974c334-d5fd-4f53-b435-a8c91ce81618.png)
+
+<p>Una vegada obert veurem que tindrem ka configuració dek project pero abaix ens surt una pestanya de avís de que ens falta els drivers. Fen clic sobre Download es descarrega.</p>
+
+![Selecció_2059](https://user-images.githubusercontent.com/91152783/170877020-e5f55eed-c6ad-4eab-ba6f-d835aace3c1d.png)
+
+<p>A la configuració ficarem el usuari i contrasenya d'anteriorment o aplicarem i farem un test de conexió si tot va bé tindria que sortir així.</p>
+
+![Selecció_2061](https://user-images.githubusercontent.com/91152783/170877277-3b0d0a03-2203-49fa-a4df-a9b9e9454213.png)
+ 
+<p> I ja tindriem acces a la base de dades. </p>
+
+![image](https://user-images.githubusercontent.com/91152783/170877408-7f0dc5f7-8ef2-41d2-821b-ea01e69d861f.png)
+
+<p> Des de la taula ja podriem afegir mes linies com aquestes. </p>
+
+![image](https://user-images.githubusercontent.com/91152783/170877484-908f788b-1852-4061-b2e7-199070668796.png)
+
+<p> Ara anem al terminal ens ubiquem a la carpeta Code i disn de code a la carpeta amb el nom que heu ficat amb el meu cas aleixcarles i creem una nova que es dira PHP_PDO. </p>
+
+![image](https://user-images.githubusercontent.com/91152783/170877844-6923edd8-0043-45f2-b1e4-71294a75ce8a.png)
+
+<p> Després de crear-ho anirem al toolbox i farem clic a la rodeta de menú toolbox i farem clic sobre conficuración.</p>
+  
+![Selecció_2066](https://user-images.githubusercontent.com/91152783/170878036-e0b406da-0420-451f-9c04-fa8aba174140.png)
+
+<p> Una vegada dins busquem l'apartat Herramientas, fem clic per a que s'obre i dins veurem que la pestanya de generar scripts de shell esta desactivada, farem clic sobre ell per activar, despres fem clic a Cambiar... per canviar l'ubicació del script.</p>
+
+![Selecció_2067](https://user-images.githubusercontent.com/91152783/170878217-e752ed31-dec1-43ce-b714-94f662a760bc.png)
+
+<p> Quan estigui obert farem clic a Nueva carpeta i crearem una que es dira phpstorm, i li assignarem aquesta per a ubicarse.</p>
+
+![Selecció_2069](https://user-images.githubusercontent.com/91152783/170878381-0e1baa6c-cc50-46f5-b88b-4d49c83e9bf1.png)
+
+<p> Ara al terminal ens ubiquem i anem a la carpeta creada phpstorm i dins d'ella fem en pwd per veure la dirreció. Aquesta direcció la compiarem ja que la tindrem que ficar als 2 fitxers, al .zshrc i al .bashrc . </p>
+
+![Selecció_2070](https://user-images.githubusercontent.com/91152783/170878753-084cc132-7411-4568-afd8-4ea0c585bb75.png)
+
+![Selecció_2071](https://user-images.githubusercontent.com/91152783/170878765-d85f5e31-f305-4c35-96d3-21d1d1e68c0e.png)
+
+![Selecció_2072](https://user-images.githubusercontent.com/91152783/170878811-39bd28bc-a300-459e-b999-a80c04e8b136.png)
+
+<p>Farem des de la carpeta abans creada phpstorm . i veurem que ja podrem obrir des de el terminal el phpstorm.</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170878977-ee37b481-80ae-48dc-bb27-e1decc543d28.png)
+
+<p> Dins del phpstorm creem el fitxer index.php aquest es pot crear fen clic dret sobre la carpeta anar a New i dins de New a File, fiques el nom i estaria creat.</p>
+
+![Selecció_2075](https://user-images.githubusercontent.com/91152783/170879516-e84cab6e-4cf5-49dd-bd93-2f3a8297cc12.png)
+
+<p> Fiquem contingut dins del fitxer</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170879686-d2607a47-8c13-4809-81f4-a7a0e5a35694.png)
+
+<p> Anem al terminal i executem el fitxer creat, veurem que ens torna un Hola mon tal i com li hem dit</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170879875-06d09b06-6293-4ed9-8bc9-ec18b81af55c.png)
+
+<p> Ara fem la comanda per a que s'uneixi al localhost i poder veureu des de el navegador</p>
+
+![Selecció_2079](https://user-images.githubusercontent.com/91152783/170880396-576ab226-863c-46b2-922e-2d48221d813a.png)
+
+![Selecció_2080](https://user-images.githubusercontent.com/91152783/170880406-e67b8a55-df55-44fb-a4f2-504d8e28d792.png)
+
+<p> Tornem a fer el codi pero esta vegada mes consistent que l'altre i vinculant-ho amb un altre que es diu task.php </p>
+
+![Selecció_2081](https://user-images.githubusercontent.com/91152783/170881673-19df2b37-66a0-4960-b397-4b3b2308e22b.png)
+![image](https://user-images.githubusercontent.com/91152783/170881685-2e3a15c5-b9b5-45d7-9213-76d5c4ba69cd.png)
+
+<p> I d'aquesta manera es consegueix fer la base de dades diferents maneres de editar amb php i diferents eines que s'utilitzen.</p>
+
+ 
+
+  
+
+
 
 
 
