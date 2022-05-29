@@ -47,7 +47,7 @@
 
 ![Selecció_2039](https://user-images.githubusercontent.com/91152783/170872734-fee2d3d8-352c-4767-8e86-7bc93e11eb9e.png)
 
-<p> Una vegada dins elegim l'opció que correspongui millor al nostre sistrema operatiu i o descarreguem.</p>
+<p> Una vegada dins elegim l'opció que correspongui millor al nostre sistrema operatiu i ho descarreguem.</p>
 
 ![Selecció_2040](https://user-images.githubusercontent.com/91152783/170872868-4477400a-f536-48e8-9bb6-e4957d9a9f39.png)
 
@@ -77,4 +77,25 @@
 
   ![Selecció_2049](https://user-images.githubusercontent.com/91152783/170874355-ec9236fc-4dfc-475d-82f4-a923ea2d86bb.png)
 
-  
+<p> Per canviar el usuari, fem clic dret sobre ell i anem a l'opció Edit connection...</p>
+
+![Selecció_2051](https://user-images.githubusercontent.com/91152783/170874528-e7454968-97bb-4ce2-b7fd-7df374fdf7a6.png)
+
+<p> Dins d'ell fiquem l'usuari i la contrasenya que hem vist anteriorment.</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170875354-d0ff4e7a-2086-4cdc-b9fc-17ea31d181b0.png)
+
+<p> Per comprovar que està bé podem fer un test de conexio fen clic sobre la casella senyalada.</p>
+
+![Selecció_2054](https://user-images.githubusercontent.com/91152783/170875888-3803019e-7337-4b05-9292-4add97096697.png)
+
+<p> Veurem que esta tot correcte quan ens surte aquesta pestanya.</p>
+
+![Selecció_2053](https://user-images.githubusercontent.com/91152783/170875919-bf7c02a6-2fcb-441a-9c10-aaf2e679b991.png)
+
+<p> Des de aquesta eina podrem entrar a la base de dades que hem creat al principi o esta la taula creada, a aquesta podrem afegir files modificarles entre altres coses de manera  grafica.</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170876120-4ca61966-9b17-4b83-8f1f-e4983bd145f9.png)
+
+
+
