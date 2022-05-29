@@ -11,7 +11,27 @@
 
 <p> Primer mirem si tenim insta·lat nmap (si no ho està ho instalem amb la comanda apt-get install namp), una vegada confirmem que esta instal·lat mirem que el port de mysql esta obert</p>
 
-![image](https://user-images.githubusercontent.com/91152783/170867278-96e1fbf4-a731-4cab-b4ca-8bc255baf24b.png)
+![Selecció_2031](https://user-images.githubusercontent.com/91152783/170867293-e0b82376-2c91-486c-bb36-d542c5a46683.png)
 
+<p>Ara mirem el usuari i contrasenya que ens crea per defecte el sistema de debian</p>
+
+![Selecció_2032](https://user-images.githubusercontent.com/91152783/170868780-a277ddf4-2ac3-4165-97f2-92725c844bb5.png)
+
+<p> Per entrar des de aquest usuari fem la comanda mysql -p (per a que ens pregunte la contrasenya) -u (per l'usuari) i el nom de l'usuari que amb el nostre cas es debian-sys-maint. Una vegada fem la comanda ens pregunta sobre una contrasenya, aquesta contrasenya que ens pregunta es la que hem mostrat al pas anterior acompanyada de l'usuari</p>
+
+![Selecció_2033](https://user-images.githubusercontent.com/91152783/170870707-d55fc918-393e-45c3-9d7c-fd7b6177aefc.png)
+
+<p> Ara que estem dins crearem una base de dades, aquesta es crea des de dins del mysql i ficarem CREATE DATABASE (nom de la base de dades que voldrem).</p>
+
+![Selecció_2034](https://user-images.githubusercontent.com/91152783/170870902-7b399ba2-2c14-4727-95bd-a4cf3163479a.png)
+
+<p> I una vegada creada per confirmar-ho farem SHOW DATABASES; per veure totes les bases de dades creades</p>
+
+![Selecció_2035](https://user-images.githubusercontent.com/91152783/170870972-3479c010-5773-40bf-9b08-07df26bb96ee.png)
+
+<p> Podem confirma que esta la base de dades creada , ara dins d'ella crearem una taula.</p>
+<p> Primer de tot li assignarem la Database (base de dades) que volem utilitzar, amb el meu cas es task ja que es la creada anteriorment, llavors dicare per poder entrar dins d'ell use tasks; </p>
+
+![image](https://user-images.githubusercontent.com/91152783/170871179-fddb3f74-92e5-45c3-bd7e-58e5925d669c.png)
 
 
