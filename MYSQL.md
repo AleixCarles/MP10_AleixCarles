@@ -43,9 +43,38 @@
 ![image](https://user-images.githubusercontent.com/91152783/170872161-0507f18b-68f7-470c-8d0d-ee14f5d68e61.png)
 
 <p> Ara farem la instal·lació de MySQL Workbench</p>
-<p>Per començar anirem a la pagina de <a href="https://dev.mysql.com/downloads/" title="MySQL_Downloads">MySQL Community Downloads</a> on trobarem per descarregar el Workbench</p>
+<p>Per començar anirem a la pagina de <a href="https://dev.mysql.com/downloads/" title="MySQL_Downloads">MySQL Community Downloads</a> on trobarem per descarregar el Workbench.</p>
 
+![Selecció_2039](https://user-images.githubusercontent.com/91152783/170872734-fee2d3d8-352c-4767-8e86-7bc93e11eb9e.png)
 
-  
-  
+<p> Una vegada dins elegim l'opció que correspongui millor al nostre sistrema operatiu i o descarreguem.</p>
+
+![Selecció_2040](https://user-images.githubusercontent.com/91152783/170872868-4477400a-f536-48e8-9bb6-e4957d9a9f39.png)
+
+<p> Una vegada descarregat des de el terminal anem anem al directori/carpeta que esta descarregat el paquet i començarem la instal·lació. Al ser un paquet .deb aques el instal·lem amb dpkg -i i el nomdel paquet, aquí una captura de com es fa:</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170873165-d69fb635-44a1-4a37-8deb-cb1eaa06c1d3.png)
+
+<p> Veurem que ens salta un error, ens indica que falta una paquet per instalar aquest paquet es el workbench-community així que procedim a instal·lar-ho.</p>
+
+![Selecció_2045](https://user-images.githubusercontent.com/91152783/170873357-73483cd7-4665-456b-b30d-e085b07a06fa.png)
+
+<p> I ara instal·lem aquest amb la comanda anterior </p>
+
+![image](https://user-images.githubusercontent.com/91152783/170873513-623ccbdd-3ec0-410d-bdca-adc3fefc7c69.png)
+
+<p> Una vegada instal·lat veurem que ja tenim l'aplicaciò</p>
+
+![image](https://user-images.githubusercontent.com/91152783/170873571-5a113e46-e4da-4151-a2a6-cd19a1434b7a.png)
+
+<p> Ara obrim l'aplicació, si no s'obre prova de fer la comanda apt --fix-broken install. Per executtar-ho fiquem /usr/bin/mysql-workbench .</p>
+
+![Selecció_2048](https://user-images.githubusercontent.com/91152783/170874218-7d91801c-701b-42b5-b21f-aa7f8db3a827.png)
+
+<p> Si intentem entrar al MySQl que ens surt ens donara error ja que l'usuari que esta ficat no es el correcte.</p>
+
+  ![Selecció_2050](https://user-images.githubusercontent.com/91152783/170874342-b7af7766-979e-4407-a0f3-3c8e4864e11a.png)
+
+  ![Selecció_2049](https://user-images.githubusercontent.com/91152783/170874355-ec9236fc-4dfc-475d-82f4-a923ea2d86bb.png)
+
   
